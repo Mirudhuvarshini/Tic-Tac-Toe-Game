@@ -18,7 +18,7 @@ This project is a console-based Tic-Tac-Toe game developed in Java. It allows tw
 
 ---
 
-## 🧠 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 - 2D Arrays for board representation
 - Loops for game flow control
 - Conditional statements for win checking
